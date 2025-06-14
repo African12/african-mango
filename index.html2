@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>African Mango – Natural Wellness Support</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { font-family: Arial, sans-serif; margin: 0; background: #ffffff; color: #333; }
+    header { background: #facc15; padding: 30px 20px; text-align: center; }
+    header h1 { margin: 0; font-size: 32px; color: #1a1a1a; }
+    header p { margin: 5px 0 0; font-size: 18px; }
+
+    .container { max-width: 800px; margin: auto; padding: 30px 20px; }
+
+    .product-img {
+      width: 100%;
+      max-width: 320px;
+      margin: 20px auto;
+      display: block;
+      border-radius: 12px;
+    }
+
+    h2 { color: #222; margin-top: 40px; font-size: 24px; }
+    ul { padding-left: 20px; }
+    ul li { margin-bottom: 8px; }
+
+    .btn {
+      display: inline-block;
+      background: #f59e0b;
+      color: white;
+      padding: 15px 30px;
+      text-decoration: none;
+      font-size: 16px;
+      border-radius: 6px;
+      margin-top: 30px;
+    }
+
+    footer {
+      background: #1a1a1a;
+      color: #eee;
+      text-align: center;
+      padding: 20px;
+      margin-top: 50px;
+    }
+
+    @media(max-width: 600px) {
+      header h1 { font-size: 26px; }
+      .btn { width: 100%; text-align: center; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>AFRICAN MANGO</h1>
+    <p>Natural Wellness Support – 30 Capsules</p>
+  </header>
+
+  <div class="container">
+    <img src="https://via.placeholder.com/300x300.png?text=AFRICAN+MANGO" alt="African Mango Bottle" class="product-img">
+
+    <h2>🌿 Product Overview</h2>
+    <p>African Mango is a plant-based supplement designed to support a healthy and active lifestyle, made from natural ingredients that promote balance and vitality.</p>
+
+    <h2>🌱 Ingredients</h2>
+    <ul>
+      <li>African Mango Extract</li>
+      <li>Green Tea Extract</li>
+      <li>Chromium</li>
+      <li>Gelatin Capsule</li>
+      <li>Magnesium Stearate</li>
+    </ul>
+
+    <h2>💊 Suggested Use</h2>
+    <p>Take 1 capsule daily after breakfast with a full glass of water.</p>
+
+    <h2>⚠️ Warnings</h2>
+    <ul>
+      <li>Not intended for persons under 18.</li>
+      <li>Do not use if pregnant or breastfeeding.</li>
+      <li>Keep out of reach of children.</li>
+    </ul>
+
+    <a href="https://wa.me/201234567890" class="btn">💬 Order via WhatsApp</a>
+  </div>
+
+  <footer>
+    &copy; 2025 African Mango. All rights reserved.
+  </footer>
+
+</body>
+</html>
